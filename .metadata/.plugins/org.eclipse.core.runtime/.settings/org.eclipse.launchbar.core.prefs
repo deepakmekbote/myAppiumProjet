@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:DeviceCommands.deviceCommands,org.eclipse.launchbar.core.descriptorType.default\:DeviceCommands,org.eclipse.launchbar.core.descriptorType.default\:LaunchingAppiumAPP,org.eclipse.launchbar.core.descriptorType.default\:TestBase,org.eclipse.launchbar.core.descriptorType.default\:TestBase.launch,org.eclipse.launchbar.core.descriptorType.default\:TestBase2,org.eclipse.launchbar.core.descriptorType.default\:appiumAppCommands
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:DeviceCommands.deviceCommands/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:DeviceCommands.deviceCommands/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
